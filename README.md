@@ -1,4 +1,4 @@
-life-scripts
+Life Scripts
 ============
 
-Scripts that help in making everyday life descriptions.
+Scripts that help in making everyday life decisions.
